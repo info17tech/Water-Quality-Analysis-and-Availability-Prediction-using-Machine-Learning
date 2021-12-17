@@ -1,1 +1,2 @@
 # Water-Quality-Analysis-and-Availability-Prediction-using-Machine-Learning
+Analyses the quality of water collected from various districts of India and classified as potable or non potable. It is analyzed with the help of different machine learning algorithms and its accuracy is calculated. Availability of ground water is predicted to estimate the need of water in various parts of India and determine the best approach to manage groundwater effectively.
